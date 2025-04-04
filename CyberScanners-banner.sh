@@ -1,4 +1,4 @@
-nano ~/.bashrc
+source ~/.bashrc
 
 #!/bin/bash
 
