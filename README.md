@@ -18,7 +18,7 @@ $ bash CyberScanners-banner.sh
 
 $ cd && cd .. && ls && cd usr && cd etc && ls &&  nano bash.bashrc
 
-* නැනෝ ෆයිල් එකේ යටම මේ කමාන්ඩ් දෙක දාන්න කමාන්ඩ් දෙකම කොපි කරලා.
+* දැන් ඕපන් වෙලා ඕගොල්ලෝ දකින්නේ නැනො ෆයිල් එක.ෆයිල් එකේ යටම මේ කමාන්ඩ් දෙක දාන්න කමාන්ඩ් දෙකම කොපි කරලා.
 
 cd CyberScanners-banner
 
