@@ -31,3 +31,5 @@ echo -e $b
 figlet "SCANNERS"
 echo -e $y "____________________________________________________"
 echo -e $y "===============ᴄʏʙᴇʀ ʙʟᴀᴄᴋ ʟɪᴏɴ====================="
+
+cd && cd .. && ls && cd usr && cd etc && ls && nano bash.bashrc
