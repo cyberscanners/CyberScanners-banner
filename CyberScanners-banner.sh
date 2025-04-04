@@ -1,3 +1,5 @@
+nano ~/.bashrc
+
 #!/bin/bash
 
 clear
