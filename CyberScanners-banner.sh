@@ -21,7 +21,7 @@ echo -e $y "• usr ip address" :
 curl ifconfig.me
 echo -e $y "               • usr architecture" :
 dpkg --print-architecture
-echo -e $y "• wifi connection system and mac address, wifi broadcast >
+echo -e $y "• wifi connection system and mac address, wifi broadcast"
 arp
 echo -e $r
 figlet "CYBER"
