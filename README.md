@@ -14,4 +14,4 @@ git clone https://github.com/cyberscanners/CyberScanners-banner.git
 
 cd CyberScanners-banner
 
-bash CyberScanners-banner
+cd CyberScanners-banner.sh
