@@ -26,3 +26,18 @@ cd CyberScanners-banner && bash CyberScanners-banner.sh && cd
 
 * ඉටපස්සේ CTRL සහා x බටන් එක ක්ලික් කරලා y එන්ට කරලා නිවු සිසන් එකක් ඕපන් කරන්න.ඉටපස්සේ මේ කමාන්ඩ් එක ගාන්න.එතකොට බැනර් එක ඇට් වෙලා තියේවී.
 
+විශේශත්වය:
+
+• User System Info Show කරනවා.
+
+• current user name.
+
+• curl ifconfig.me – internet IP address.
+
+• dpkg --print-architecture – CPU architecture (e.g., arm64, amd64, etc.)
+
+• arp – connected network devices and their MAC addresses (used to show WiFi info).
+
+කෙටියෙන් :
+
+* ඔයා මේකෙන් සාදාගත්තෙ terminal එක open වුනාම auto-run වෙලා cyber style එකේ info-banner එකක් + system info එකක් display කරන්න script එකක්.
