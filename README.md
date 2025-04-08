@@ -32,11 +32,11 @@ cd CyberScanners-banner && bash CyberScanners-banner.sh && cd
 
 • current user name.
 
-• curl ifconfig.me – internet IP address.
+• internet IP address.
 
-• dpkg --print-architecture – CPU architecture (e.g., arm64, amd64, etc.)
+• CPU architecture (e.g., arm64, amd64, etc.)
 
-• arp – connected network devices and their MAC addresses (used to show WiFi info).
+• connected network devices and their MAC addresses (used to show WiFi info).
 
 කෙටියෙන් :
 
